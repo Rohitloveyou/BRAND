@@ -2,7 +2,7 @@
 
 # -*- coding: utf-8 -*-
 
-import sys date
+
 
 ###---[ INFO AUTHOR SCRIPT BRUTEFORCE ]---###
 
